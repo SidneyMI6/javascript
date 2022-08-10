@@ -1,0 +1,16 @@
+Javascript:
+Node foi criado em C++
+Javascript é uma linguagem para web que se adapta ao ambiente web
+
+NodeJS faz uma coisa de cada vez em sequencia.
+
+Mutabilidade dentro da variável: alterar o tipo
+
+Variável constante e variável 
+
+var
+const
+let
+console.log
+
+objetos são sempre colchetes
